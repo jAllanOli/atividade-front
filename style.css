@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+main {
+  margin-bottom: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
